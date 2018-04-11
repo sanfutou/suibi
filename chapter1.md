@@ -1,3 +1,2 @@
-# First Chapter
+据悉，猪八戒网不再收取平台20%的交易佣金\(比稿、计件除外\)，实施平台零佣金制度；同时，旗下的工程建筑设计频道发布新版——“八戒工程”，全力打造“网络设计院”。另外，侧重有所不同的互联网+设计院模式的网络平台还有一些爱迪生咨询、全球设计网、易工程、SMAECH等。
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
